@@ -1,0 +1,17 @@
+body{
+  padding: 50px;
+}
+
+header{
+  border-bottom: 1px solid #000;
+  padding: 10px 0;
+}
+
+main{
+  height: 300px;
+}
+
+footer{
+  background: #efefef;
+  padding: 10px;
+}
